@@ -6,6 +6,7 @@ body{
     margin: 0;
     background-color: hsl(0, 0%, 98%);
     font-family: 'Poppins', sans-serif;
+    color: hsl(229, 6%, 66%)
 }
 
 .headings{
@@ -17,7 +18,7 @@ body{
 }
 
 .not-bold{
-    font-weight: 200;
+    font-weight: 100;
     margin-bottom: 0;
     color: hsl(234, 12%, 34%);
 }
@@ -25,6 +26,15 @@ body{
 .bold{
     font-weight: 600;
     color:hsl(234, 12%, 34%);
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+.first-head-para{
+    margin-top: 1px;
+    margin-bottom: 0.5px;
+}
+.second-head-para{
     margin-top: 0;
 }
 
