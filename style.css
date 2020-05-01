@@ -38,3 +38,36 @@ body{
     margin-top: 0;
 }
 
+.main-wrapper{
+    width: 100%;
+}
+
+.card{
+    width: 25%;
+    height: 30%;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 10px 25px 25px 20px;
+}
+
+.card-heading{
+    font-size: 18px;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+
+.card-paragraph{
+    font-size: 14px;
+}
+
+.img-wrapper{
+    overflow: auto;
+}
+
+.card-pic{
+    float: right;
+}
+
+.first{
+    border-top: 5px solid hsl(180, 62%, 55%);
+}
