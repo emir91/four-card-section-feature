@@ -88,6 +88,9 @@ main{
     border-top: 5px solid hsl(212, 86%, 64%);
 }
 
+footer{
+    margin: 0 auto;
+}
 .attribution { 
     font-size: 11px; 
     text-align: center; 
